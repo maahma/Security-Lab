@@ -1,7 +1,7 @@
 # Security Lab
 A collection of Python based automation projects for cybersecurity tasks
 
-- [ ] Password Generator
+- [ ] [Password Generator](https://github.com/maahma/PasswordGenerator)
 - [ ] Password Manager
 - [ ] Cryptography Cipher
 - [ ] Phishing Detection System
