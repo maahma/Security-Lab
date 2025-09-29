@@ -11,3 +11,5 @@ A collection of Python based automation projects for cybersecurity tasks
 - [ ] Ad Blocker
 - [ ] Packet Sniffer
 - [ ] Basic IDS/SEIM (analyze logs & display dashboard)
+- [ ] Log File Parser
+- [ ] File Integrity Checker
